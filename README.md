@@ -1,2 +1,2 @@
-# ohl-rap
+# osh-rap
 Reloj de ajedrez programable
